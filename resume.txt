@@ -1,0 +1,4 @@
+Name: Pranavi
+Education: BTech in Computer Science
+Skills: Python, C, Communication, Teamwork
+Projects: Password Generator, Resume Analyzer
